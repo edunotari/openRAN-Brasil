@@ -32,7 +32,12 @@ Hospedeiros homologados:
   - 2.390 – 2.400 MHz (banda 40 do 3GPP);
   - 2.485 – 2.495 MHz (banda 53 do 3GPP);
   - 3.700 – 3.800 MHz (banda n78 do 3GPP); e
-  - 27,5 – 27,9 GHz (banda n261 do 3GPP). 
+  - 27,5 – 27,9 GHz (banda n261 do 3GPP).
+
+<div style="background: yellow; padding: 10px;">
+<p>A Agência não restringe o uso das faixas à determinada tecnologia, devendo ser observados os limites operacionais estabelecidos no requisitos técnicos aprovados. Os Requisitos Técnicos de Condições de Uso do Espectro para as faixas de radiofrequências destinadas ao Serviço Limitado Privado estão consolidados no Anexo ao Ato nº 915, de 1º de fevereiro de 2024.</p>
+</div>
+
 - Automação de elementos com ajuda de AI - Telco-AI, AI-RAN
 - Sandbox regulatório - AI com 3GPP, O-RAN Alliance and TIP compliance.
 - Testar a tecnologia em diferentes splits funcionais da RAN.
