@@ -23,11 +23,16 @@ Hospedeiros homologados:
 - Região: Sul: POP-RS/UFRGS/UNISINOS/UFCSPA/PUC-RS; POP-SC/UFSC e UNOCHAPECO.
 
 ## Foco do projeto:
-
-- Redes privativas
 - open RAN
+- Redes privativas
 - Observabilidade e Telemetria
-- AR/VR Aplicações, de baixíssima latência (uRLLC) justificando o uso do processamento na borda da rede e tecnologias avançadas como massive MIMO, beamforming e Numerologia em frequências de:
+- AR/VR Aplicações, de baixíssima latência (uRLLC) justificando o uso do processamento na borda da rede e tecnologias avançadas como massive MIMO, beamforming e Numerologia:
+  - (Exemplo 1)[https://www.youtube.com/shorts/hXGvS9-GlfM]
+  - (Exemplo 2)[https://www.youtube.com/watch?v=NOKJDCqvvMk]
+  - (Exemplo 3)[https://www.youtube.com/shorts/YZi88PaxW_Q]
+  - (Exemplo 4)[https://www.youtube.com/shorts/qRogepIEZeg]
+  - (Exemplo 5)[https://www.youtube.com/shorts/RloJBOHU_f0]
+- Frequências de:
   - 806 – 809 MHz / 851 – 854 MHz;
   - 2.390 – 2.400 MHz (banda 40 do 3GPP);
   - 2.485 – 2.495 MHz (banda 53 do 3GPP);
@@ -74,6 +79,7 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
 - Servidores de dados de alta capacidade e GPUs.
 - Óculos de realidade aumentada e realidade virtual, consoles e desktops para a aplicação.
 - Tecnologias do estado da arte dos dispositivos de AR/VR.
+  - [Ocúlos AR](https://www.youtube.com/shorts/EMpCyE54vDw)    
 - Licenças e Software
 - Equipamentos(keysight) de medições e observabilidade da rede móvel e de transporte.
 - Fibra ótica e medidores.
