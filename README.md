@@ -44,7 +44,7 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
 • Educação;
 • Jogos Educacionais;
 
-## <span style="color:red">Coordenador Geral: (RNP credenciada ao CATI) ********* Verificar quem pode acolher:</span>
+## [#f03c15]Coordenador Geral: (RNP credenciada ao CATI) ********* Verificar quem pode acolher:
 
 ## As propostas poderão solicitar até R$2.025.000,00 (dois milhões e vinte e cinco mil reais).
 ### Viagens nacionais e internacionais.
@@ -60,10 +60,10 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
 - Rádios para 5G (USRP da Ettus Research.) e RUs (Benetel e Foxconn)
 - Roteadores e Switches spine de rede.
 - Servidores de dados de alta capacidade e GPUs.
-- Óculos de realidade aumentada e realidade virtual.
+- Óculos de realidade aumentada e realidade virtual, consoles e desktops para a aplicação.
 - Tecnologias do estado da arte dos dispositivos de AR/VR.
 - Licenças e Software
-- Equipamentos(ktysight) de medições e observabilidade da rede móvel e de transporte.
+- Equipamentos(keysight) de medições e observabilidade da rede móvel e de transporte.
 - Fibra ótica e medidores.
   
 ### Serviços de terceiro.
@@ -87,7 +87,7 @@ recursos utilizando o modelo indicado.
 de Anuência assinada pelo responsável da respectiva unidade do CATI;
 
 ## Cenário de Implantação:
-<span style="color:red">Desagregada: Os elementos ficam distribuídos entre dois ou mais locais distintos.</span>
+[#f03c15] Desagregada: Os elementos ficam distribuídos entre dois ou mais locais distintos.
 
 ## Sumário Executivo: Apresentar os objetivos da proposta, incluindo seus principais benefícios.
 ### Desenvolvimento Tecnológico: Descrever tecnicamente a solução. Apresentar tecnologias, benefícios e impactos. Em caso de parcerias, descrever o papel de cada parceiros.
