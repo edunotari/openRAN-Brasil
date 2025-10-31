@@ -32,6 +32,9 @@ Hospedeiros homologados:
   - [Exemplo 3](https://www.youtube.com/shorts/YZi88PaxW_Q)
   - [Exemplo 4](https://www.youtube.com/shorts/qRogepIEZeg)
   - [Exemplo 5](https://www.youtube.com/shorts/RloJBOHU_f0)
+  - [Exemplo 6](https://www.youtube.com/watch?v=WxzcD04rwc8)
+  - [Exemplo 7](https://www.youtube.com/shorts/VsTL_l4Xcu0)
+  - [Exemplo 8 - Hyper Reality](https://www.youtube.com/watch?v=YJg02ivYzSs)
 - Frequências de:
   - 806 – 809 MHz / 851 – 854 MHz;
   - 2.390 – 2.400 MHz (banda 40 do 3GPP);
@@ -75,6 +78,7 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
   - [Unity - Education PLAN](https://unity.com/solutions/education#education-plans)
   - [Meta - Developer](https://developers.meta.com/)
   - [Meta - Eduacators](https://forwork.meta.com/meta-for-education/)
+  - [Unity - AR](https://www.youtube.com/watch?v=FJAO6jDYljs)
 
 
 ### Aquisição de equipamentos, softwares e materiais permanentes.
