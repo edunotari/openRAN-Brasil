@@ -71,7 +71,11 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
 
 ### Materiais de consumo.
 - Cursos
-  - [Unity](https://unity.com/products/on-demand-training/course-catalog#developing-for-visionos)  
+  - [Unity - VR](https://unity.com/products/on-demand-training/course-catalog#developing-for-visionos)
+  - [Unity - Education PLAN](https://unity.com/solutions/education#education-plans)
+  - [Meta - Developer](https://developers.meta.com/)
+  - [Meta - Eduacators](https://forwork.meta.com/meta-for-education/)
+
 
 ### Aquisição de equipamentos, softwares e materiais permanentes.
 - Antenas gNodeBs
@@ -80,7 +84,8 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
 - Servidores de dados de alta capacidade e GPUs.
 - Óculos de realidade aumentada e realidade virtual, consoles e desktops para a aplicação.
 - Tecnologias do estado da arte dos dispositivos de AR/VR.
-  - [Ocúlos AR](https://www.youtube.com/shorts/EMpCyE54vDw)    
+  - [Ocúlos AR](https://www.youtube.com/shorts/EMpCyE54vDw)
+  - [Meta - Glasses](https://www.meta.com/br/en/quest/compare/)
 - Licenças e Software
 - Equipamentos(keysight) de medições e observabilidade da rede móvel e de transporte.
 - Fibra ótica e medidores.
