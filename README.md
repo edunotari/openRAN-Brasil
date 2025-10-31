@@ -11,6 +11,10 @@ Parceiros:
 - Inatel
 - Universidades: UnB, UFG + grupos de pesquisa e instituições hospedeiras.
 
+Candidatos homologados:
+• Região Norte: POP-PA/UFPA e POP-RO/UNIR;
+• Região Nordeste: POP-BA/UFBA/IFBA; POP-PB/UFCG; UFPB; UFPE e UFRN;
+• Região: Sul: POP-RS/UFRGS/UNISINOS/UFCSPA/PUC-RS; POP-SC/UFSC e UNOCHAPECO.
 
 ## Foco do projeto:
 
