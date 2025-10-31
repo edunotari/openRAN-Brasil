@@ -12,8 +12,8 @@ Parceiros:
 - Universidades: UnB, UFG + grupos de pesquisa e instituições hospedeiras.
 
 Instituições homologadas:
-- RNP
-- CPQD
+- **RNP**
+- **CPQD**
 - UFG
 - UNB
   
@@ -107,10 +107,61 @@ desenvolvimento no ambiente do hospedeiro indicado.
 respectivos casos de uso.
 ### O código-fonte do projeto deverá ser disponibilizado ao fim do projeto.
 
-## Eligibilidade
-### Possuir um Coordenador Geral.
-### Parceria [RNP](https://www.rnp.br/sistema-rnp/instituicoes-conectadas/) e credenciado ao [CATI]([https://duckduckgo.com](https://inovacaodigital.mcti.gov.br/ComiteTiCati/instituicoesCredenciadas)).
+## Projeto
+### Eligibilidade
+#### Possuir um Coordenador Geral.
+#### Parceria [RNP](https://www.rnp.br/sistema-rnp/instituicoes-conectadas/) e credenciado ao [CATI](https://inovacaodigital.mcti.gov.br/ComiteTiCati/instituicoesCredenciadas).
+#### Devem ser caracterizadas como projetos de P&D.
+#### Devem indicar apenas 01 hospedeiro da lista instituições homologadas como hospedeiros.
+#### Devem apresentar um ou mais casos de uso utilizando o hospedeiro indicado.
+#### Devem ter alinhamento com uma ou mais verticais de interesse:
+#### Indústria 4.0; Saúde; Agro 4.0; Educação Imersiva; Cidades e Campis Inteligentes; Jogos Educacionais
+#### Devem evidenciar as potencialidades das tecnologias 5G e Open RAN.
 
+### Recursos
+As propostas poderão solicitar até R$2.025.000,00 (dois milhões e vinte e cinco mil reais).
+- Viagens nacionais e internacionais.
+- Materiais de consumo.
+- Aquisição de equipamentos, softwares e materiais permanentes.
+- Serviços de terceiro.
+- Recursos Humanos.
+- Taxas Administrativas ´- Até 15% do valor total do projeto.
+- Todas as solicitações devem ter relação com o objetivo do projeto.
 
+### Duração do projeto: 24 meses - De janeiro de 2026 até dezembro de 2027.
 
+### [Planilha de Custos](https://docs.google.com/spreadsheets/d/1F9Llyw9N_hET6075LeDls1bmFReiQkvdJI6oaulGwsQ/edit?hl=pt-br&gid=0#gid=0)
 
+### Apresentação
+- Título do Projeto
+- Coordenador Geral
+- Instituição do Coordenador Geral
+- Instituições Parceiras: Devem ser listados os pesquisadores envolvidos.
+- Instituição Hospedeira e Coordenador do Hospedeira:
+  - Deve ser indicado apenas 01 (huma) instituições hospedeira
+  - Utilizar como referência o Anexo I – Instituições Homologadas
+
+### Aplicações 5G open RAN
+- Sumário Executivo: Apresentar os objetivos da proposta, incluindo seus principais benefícios.
+- Desenvolvimento Tecnológico: Descrever tecnicamente a solução. Apresentar tecnologias, benefícios e impactos. Em caso de parcerias, descrever o papel de cada parceiros.
+- Casos de Uso 5G e Open RAN: Com base na aplicação proposta, no hospedeiro indicado e nas funcionalidades do testbed, apresentar um ou mais casos de uso que evidenciem os diferencias do 5G e Open RAN.
+Utilizar como referência o Anexo IV – Capacidades do Testbed.
+
+### Premissas:
+- A cada quadrimestre deve ser realizada, no mínimo, 01 (huma) entrega.
+- O conteúdo da entrega é definido pelo proponente.
+- O plano de trabalho deve ter duração de 24 meses.
+- Caso a proposta indique uma das instituições com a condição de homologadas, considerar que a infraestrutura estará disponível a partir de setembro de 2026.
+- Proponentes poderão utilizar as ilhas já implantadas para realizar os seus trabalhos.
+- Ano 2 (jan/27 até dez/27): É obrigatório definir e executar atividades de pesquisa e desenvolvimento no ambiente do hospedeiro indicado.
+- Outubro 2027: Entrega de whitepaper com os resultados obtidos da aplicação e dos respectivos casos de uso.
+- O código-fonte do projeto deverá ser disponibilizado ao fim do projeto.
+
+### Responsabilidades
+- Aquisição, envio e instalação dos equipamentos com custos integralmente cobertos pelo Programa OpenRAN@Brasil.
+- Consultoria técnica para instalação e configuração dos equipamentos.
+- Contratação de bolsista até dezembro de 2027 para manutenção e operação da ilha.
+  - Valor Mensal: R$2.400,00 (dois mil e quatrocentos reais)
+- Caso necessário, custeio da adequação do ambiente físico:
+  - Valor máximo de R$150.000,00
+  - Apenas atividades realizadas por empresa especializada em infraestrutura de redes serão custeadas
