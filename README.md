@@ -2,12 +2,15 @@
 Iniciativa multi-institucional apoiado pelo Ministério da Ciência, Tecnologia e Inovações, com recursos da Lei de Informática (nº 8.248, de 23 de outubro de 1991), conforme orientação da Secretaria de Empreendedorismo e Inovação.
 Objetivo: Acelerar o desenvolvimento de um ecossistema de rede aberta a partir da investigação, do desenvolvimento, da inovação e da formação da mão-de-obra em tecnologias e aplicações relacionadas com o 5G e além.
 
+![Alt text](images/fases.png "Fases")
+
 Parceiros:
 - RNP
 - CPQD
 - Eldorado
 - Inatel
 - Universidades: UnB, UFG + grupos de pesquisa e instituições hospedeiras.
+
 
 ## Foco do projeto:
 
