@@ -27,7 +27,12 @@ Hospedeiros homologados:
 - Redes privativas
 - open RAN
 - Observabilidade e Telemetria
-- AR/VR Aplicações, de baixíssima latência (uRLLC) justificando o uso do processamento na borda da rede e tecnologias avançadas como massive MIMO, beamforming e Numerologia em uma frequência acima dos 26GHz.
+- AR/VR Aplicações, de baixíssima latência (uRLLC) justificando o uso do processamento na borda da rede e tecnologias avançadas como massive MIMO, beamforming e Numerologia em frequências de:
+  - 806 – 809 MHz / 851 – 854 MHz;
+  - 2.390 – 2.400 MHz (banda 40 do 3GPP);
+  - 2.485 – 2.495 MHz (banda 53 do 3GPP);
+  - 3.700 – 3.800 MHz (banda n78 do 3GPP); e
+  - 27,5 – 27,9 GHz (banda n261 do 3GPP). 
 - Automação de elementos com ajuda de AI - Telco-AI, AI-RAN
 - Sandbox regulatório - AI com 3GPP, O-RAN Alliance and TIP compliance.
 - Testar a tecnologia em diferentes splits funcionais da RAN.
