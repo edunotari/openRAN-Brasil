@@ -71,6 +71,7 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
 
 ### Materiais de consumo.
 - Cursos
+  - [Unity](https://unity.com/products/on-demand-training/course-catalog#developing-for-visionos)  
 
 ### Aquisição de equipamentos, softwares e materiais permanentes.
 - Antenas gNodeBs
