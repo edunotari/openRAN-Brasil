@@ -45,7 +45,7 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
 • Jogos Educacionais;
 
 
-## $${\color{red}Coordenador Geral: (RNP credenciada ao CATI) ********* Verificar quem pode acolher:}
+## $${\color{red}Coordenador Geral: (RNP credenciada ao CATI) ********* Verificar quem pode acolher:}$$
 
 
 ## As propostas poderão solicitar até R$2.025.000,00 (dois milhões e vinte e cinco mil reais).
@@ -89,7 +89,7 @@ recursos utilizando o modelo indicado.
 de Anuência assinada pelo responsável da respectiva unidade do CATI;
 
 ## Cenário de Implantação:
-[#f03c15] Desagregada: Os elementos ficam distribuídos entre dois ou mais locais distintos.
+$${\color{red} Desagregada: Os elementos ficam distribuídos entre dois ou mais locais distintos.}$$
 
 ## Sumário Executivo: Apresentar os objetivos da proposta, incluindo seus principais benefícios.
 ### Desenvolvimento Tecnológico: Descrever tecnicamente a solução. Apresentar tecnologias, benefícios e impactos. Em caso de parcerias, descrever o papel de cada parceiros.
