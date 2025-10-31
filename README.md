@@ -44,7 +44,9 @@ Desenvolvimento de aplicações em AR/VR para uso nas mais diversas áreas, habi
 • Educação;
 • Jogos Educacionais;
 
-## [#f03c15]Coordenador Geral: (RNP credenciada ao CATI) ********* Verificar quem pode acolher:
+```diff
+##  - Coordenador Geral: (RNP credenciada ao CATI) ********* Verificar quem pode acolher:
+```
 
 ## As propostas poderão solicitar até R$2.025.000,00 (dois milhões e vinte e cinco mil reais).
 ### Viagens nacionais e internacionais.
