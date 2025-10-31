@@ -11,10 +11,16 @@ Parceiros:
 - Inatel
 - Universidades: UnB, UFG + grupos de pesquisa e instituições hospedeiras.
 
-Candidatos homologados:
-• Região Norte: POP-PA/UFPA e POP-RO/UNIR;
-• Região Nordeste: POP-BA/UFBA/IFBA; POP-PB/UFCG; UFPB; UFPE e UFRN;
-• Região: Sul: POP-RS/UFRGS/UNISINOS/UFCSPA/PUC-RS; POP-SC/UFSC e UNOCHAPECO.
+Instituições homologadas:
+- RNP
+- CPQD
+- UFG
+- UNB
+  
+Hospedeiros homologados:
+- Região Norte: POP-PA/UFPA e POP-RO/UNIR;
+- Região Nordeste: POP-BA/UFBA/IFBA; POP-PB/UFCG; UFPB; UFPE e UFRN;
+- Região: Sul: POP-RS/UFRGS/UNISINOS/UFCSPA/PUC-RS; POP-SC/UFSC e UNOCHAPECO.
 
 ## Foco do projeto:
 
@@ -101,4 +107,10 @@ desenvolvimento no ambiente do hospedeiro indicado.
 respectivos casos de uso.
 ### O código-fonte do projeto deverá ser disponibilizado ao fim do projeto.
 
-- 
+## Eligibilidade
+### Possuir um Coordenador Geral.
+### Parceria [RNP](https://www.rnp.br/sistema-rnp/instituicoes-conectadas/) e credenciado ao [CATI]([https://duckduckgo.com](https://inovacaodigital.mcti.gov.br/ComiteTiCati/instituicoesCredenciadas)).
+
+
+
+
